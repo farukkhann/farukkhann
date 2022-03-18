@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Full stack web developement**
 
-- 👨‍💻 All of my projects are available at [https://github.com/farukkhann](https://github.com/farukkhann)
+- 👨‍💻 All of my projects are available at <a href="https://github.com/farukkhann">Faruk khan</a>
 
 - 📫 How to reach me **fk300220@gmail.com**
 
