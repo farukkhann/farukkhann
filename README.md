@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **fk300220@gmail.com**
 
-- 📄You can find my resume here [https://drive.google.com/file/d/1IRK3sYhjb33tJL6anUJgUOJXI4FRVjCM/view?usp=sharing](https://drive.google.com/file/d/1IRK3sYhjb33tJL6anUJgUOJXI4FRVjCM/view?usp=sharing)
+- 📄You can find my resume  [https://drive.google.com/file/d/1IRK3sYhjb33tJL6anUJgUOJXI4FRVjCM/view?usp=sharing]<a href="(https://drive.google.com/file/d/1IRK3sYhjb33tJL6anUJgUOJXI4FRVjCM/view?usp=sharing)">here</a>
 - <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farukkhann" alt="farukkhann" /></a> </p>
 
 <h3 align="left">Connect with me:</h3>
